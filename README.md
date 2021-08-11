@@ -1,4 +1,4 @@
-- 👋 <h1>Salam, I am Muhammad Shahab.</h1>
+- 👋 Salam, I am Muhammad Shahab.
 - 📫 Reach me at MuhammadShahab.business@gmail.com
 
 <!---
